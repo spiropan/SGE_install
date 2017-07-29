@@ -2,4 +2,5 @@
 Taken from https://peteris.rocks/blog/sun-grid-engine-installation-on-ubuntu-server/
 
 To run:
-bash setup_sge.sh
+% bash setup_sge.sh
+% bash install_singularity.sh
