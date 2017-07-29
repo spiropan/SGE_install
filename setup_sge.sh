@@ -54,7 +54,7 @@ rm ./grid
 
 # create a queue called all.q
 cat > ./grid <<EOL
-qname                 peteris.q
+qname                 all.q
 hostlist              @allhosts
 seq_no                0
 load_thresholds       NONE
